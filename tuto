@@ -3,10 +3,7 @@ TUTO MANIPULATIONS PYSCADA
 SOMMAIRE :
 -Créer une vue
 Pour créer une vue,
-  extensions = [
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.autodoc',	    'sphinx.ext.autodoc',
-    'sphinx.ext.mathjax',	    'sphinx.ext.mathjax',]
+
 Insérer les pages nécessaires à la vue :
  
 -Créer une page et l’insérer dans une vue
