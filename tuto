@@ -1,2 +1,18 @@
 <p>You can use the mark tag to <mark>highlight</mark> text.</p>
-test
+
+TUTO MANIPULATIONS PYSCADA
+SOMMAIRE :
+-Créer une vue
+Pour créer une vue,
+  
+ 
+Insérer les pages nécessaires à la vue :
+ 
+-Créer une page et l’insérer dans une vue
+-Créer un control item et l’insérer dans sa page
+-Créer un graphique
+-Créer un script
+-Créer un bouton cliquable
+-
+
+
