@@ -1,4 +1,13 @@
-
+const path = require('path');
+const ejs = require('ejs');
+const FS = require('fs-extra');
+const marked = require('marked');
+const loading = require('loading-cli');
+const ghpages = require('gh-pages');
+const minify = require("html-minifier").minify;
+const markdownParse = require("@textlint/markdown-to-ast").parse;
+const colors = require('colors-cli/toxic');
+const pkg = require('../package.json');
 
 TUTO MANIPULATIONS PYSCADA
 SOMMAIRE :
