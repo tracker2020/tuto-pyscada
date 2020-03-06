@@ -19,7 +19,7 @@ Sur putty
 ^^^^^^^^^
 Voici l'exemple du programme de script pour putty:
 
-		.. image:: pic/script_putty.PNG
+		.. image:: pic/script_putty.png
 
 Sous forme txt pour copier coller::
 
