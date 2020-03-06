@@ -26,7 +26,5 @@ Une fois connecté, la modification est accessible via la partie **Admin**:
 		.. image:: pic/admin.PNG
 		
 		
-* `IHM <ihm.html>`_
-* `Réalisation d'un script <script.html>`_	
 
 

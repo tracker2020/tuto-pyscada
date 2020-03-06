@@ -53,5 +53,3 @@ Sous forme txt pour copier coller::
 Le programme est le même pour chaque script que nous avons créé, la seule partie modifiable se situe après la ligne ``def script(self)``.
 La ligne ``#logger.debug(bouton2)`` permet de voir les logs du script lorsque l'on enlève le # du programme.
 
-* `Introduction <tutoriel.html>`_
-* `IHM <ihm.html>`_

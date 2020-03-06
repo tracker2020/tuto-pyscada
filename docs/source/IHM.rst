@@ -67,5 +67,3 @@ Cette page permet d'afficher les controls items définis précédemment. On déf
 		
 Le contenu de la rangée 1 apparaîtra en haut de la page, la dernière rangée en bas de la page. Pour les colonnes, la 1ère se situe la plus a gauche et la 4ème la plus à droite. Pour la taille vous avez le choix entre 4 formats: 1/4 qui prendra 1/4 de la rangée. 2/4 pour la moitié de la rangée et ainsi de suite jusqu'à 4/4 pour que le contenu choisi prenne la place d'une rangée complète.
 		
-* `Introduction <tutoriel.html>`_
-* `Réalisation d'un script <script.html>`_
