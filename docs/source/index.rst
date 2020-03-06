@@ -5,8 +5,8 @@ Ce tutoriel vous apprendra les bases pour la programmation sur Pyscada.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Sommaire:
    		 
-   tuto
-
-
+   tutoriel
+   IHM
+   script
+   
